@@ -1,8 +1,9 @@
 #main {
     font-family: helvetica;
     padding: 20px;
+    font-size: 14px;
 }
 
-#about {
-    font-size: 12px;
+td {
+    width: 435px;
 }
