@@ -1,0 +1,33 @@
+---
+---
+
+@import "minima";
+
+.post-link { display: inline; font-size: 14px; }
+.post-list-heading { font-size: 1rem; margin-bottom: 0px;}
+.site-title { font-size: 22px; } 
+.post-title { font-size: 24px; letter-spacing: -1px; line-height: 1; }
+
+#banner {
+    table-layout: fixed;
+    border-style: hidden;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+.title {
+    font-size: 1.5rem;
+}
+
+.alignleft {
+    float: left;
+}
+.alignright {
+    float: right;
+}
+
+.post-list > li {
+    margin-bottom: 3px;
+}
