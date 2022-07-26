@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I use writing to test my individuality. It helps to discover what I actually think. Typically I ask a question and assume that my highest conviction answer is something I heard. I then try to deduce the answer and in that process, it is the concomittant ideas I find worth thinking about. 
+I like to write as an exercise of intellectual honesty.  
+There is also the thrill that, in the process, I may discover an anomaly or something new.  
+But what appeals me most is writing as an extension of memory. When I come back, I get a simultaneous feeling of surprise while reliving the precise moment of when I wrote these words.
 
-But perhaps the important reason is to come back to read my posts after some time.  
-I get a feeling of surprise and simultaneously relive that precise moment in the past. 
