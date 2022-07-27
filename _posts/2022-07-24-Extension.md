@@ -2,9 +2,10 @@
 layout: post
 title: 'Work As An Extension Of Man'
 date:   2022-07-22 15:13:25 -0700
+published: false
 ---
 
-Marco Pierre White is my youtube teacher and continuous source of inspiration. 
+Marco Pierre White has been a continuous source of inspiration. 
 
 His story is about self-belief, about drawing inspiration from your beginnings, and, the push to attain your dreams at whatever cost. The refusal to conform later led him to walk away from status and great financial upside.
 

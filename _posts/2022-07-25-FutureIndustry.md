@@ -1,80 +1,28 @@
 ---
 layout: post
-title: 'Rate limiter for the sustainable energy transation'
+title: 'Narratives advancing technology'
 date:   2022-07-24 15:13:25 -0700
 ---
 
-The transition to sustainable energy is unequivocally one of civilization's acid tests.
+This is a summary of the themes I'm able to pick up in my world.
 
-The dominant narrative for sustainable energy is to curb climate change. The other much obvious one is that fossil fuels will run out within the century [^basecase], and, the world's economy depends on them as primary energy source (84% in 2020[^0]). 
+If technology is advanced by social and political choices, these are the narratives that seem most salient right now.
 
-In our ability to extend this conclusion, it hinges the
+1. The US ability to manufacture competitively has been eroded by 50 years of offshoring. What started as outsourcing exclusively manufacturing has now evolved into mfg, eng and design of new products by these firms. 
 
-accelFrom the correlation between energy usage and quality of life, it is easy to extend the conclusion that in our ability to accelerate this transition, hinges our ability to . 
+   Looking into the inflows for production: materials, labor, energy and capital, the belief is that inadequate labor supply and higher regulation costs relative to China are the primary sources of delta.  
 
-I worked in industrial solar a few years back, so this deep dive is both a personal effort to understand the gap from when I left and to break down the constituents of the rate of deployment. 
+   **Solution space:** immigration policies, near-shoring, robotics, and, automation. 
+   Some belive in the Nile of the West -- a new corridor guided by the Mississipi basin and including the Heartland states, Texas, Florida, and parts of industrialized northern Mexico.
 
----
-&nbsp;
+2. Another interpetation of this is that the US moved into an intangibles economy. The growth stagnation is explained by either lack of competition between these new firms or the wrong financial institutions to support them. 
 
-Let's take a look at the US and China's sustainable energy supply chain from a systems perspective. 
+3. US is reevaluating its self-reliance to China on strategic manufacturing sectors. Mainly in defense, semiconductors and chips, and the mining and refining of critical technology metals. 
 
-What are the rate limiters for the US transition? How are these systems structured? 
+4. The US government is unable to carry infrastructure modernization of the country. A key driver is the low access of top talent given market competition, primarily from Tech. VCs believe there is a 
 
-These are the questions I'm trying to understand. 
+5. Software-only is saturated. A16Z is dedicating rougly 1/3 of their resources to Web3, the rest between SaaS and cautiously into a wave of new physical + software products that promise capturing greater basis points of GDP.
 
-Dividing the system into 3 components: 
+6. The DoD has realized that platforms are not the future of war but rather, distributed, lower cost, autonomous systems. The consolidated supplier base of 5 primes (an order of magnitude less than in 1990s) does not excel at these technologies nor have the correct incentive structure to build with urgency and competitively. 
 
-1. Inputs: Materials, Labor, Energy, Capital & Funding
-2. Production: Manufacturing Capacity
-3. Outputs: Market Dynamics 
-
----
-&nbsp;
-
-# **Inputs**
-#### Materials 
-- US had domestic supply chain of rare-earth metals. China flooded markets in late 90s (see Mountain Pass history).
-- US has access to most raw materials but does low mining and no refinement (see reference).
-- China has been on a 30-yr campaign to secure controlling stakes in mines and building inland processing capacity. Currenly > 60% of the world's mining and processing (see NREL)
-- Processing technology is high-resource intensive with potential to be rethought (eg. Tesla's Battery day).
-
-#### Labor
-- Poor career prospects in mining has decreased academic research and workforce (see Society of Mining, Metallurgy & Exploration)
-
-#### Energy
-
-Electricity Industrial Prices 
-
-| $ / MWh    |
-| US | China | 
-|------------|
-| 76 [^3]|62 |
-
-#### Capital & Funding Strategies
-1. America leads in basic research and applied research, in part due to historical bipartisan support via grants 
-
-# **Production** 
-#### Manufacturing Capacity
-2. China has clever ways to bypass WTO rules. Combination of grants, market discipline and structural incentives.
-4. 50 years of offshoring has following operational consequences in the manufacturing stock: 
-   - Eroded ability to implement and upscale innovations decreasing self-reliance.
-   - US has an inadequate labor force -- in size and training.
-7. There are strategic areas for self-reliance and national security: 
-   - Chips, AI 
-
-# **Outputs**
-#### Market Dynamics 
-
-
-References
-
-[^basecase]: The most simple base case for oil depletion is as follows:  
-     - The US proved oil reserves are 1,244 million barrels [^1].
-     - Suppose the current rate of ~20 million barrels[^2].
-     - That's a 60 year runway. Natural gas and coal have similar scenarios with depletion ranges between 70-100 years.
-
-[^1]: [U.S. Crude Oil and Natural Gas Proved Reserves, Year-end 2020 (2022)](https://www.eia.gov/naturalgas/crudeoilreserves/#:~:text=In%202020%2C%20the%20sum%20of,reserves%20was%201%2C244%20million%20barrels.&text=Our%20official%20published%20estimate%20of,decrease%20of%208%25%20from%202019.)
-[^2]: [How much oil is consumed in the United States? (Updated March 2022)](https://www.eia.gov/tools/faqs/faq.php?id=33&t=6#:~:text=EIA%20uses%20product%20supplied%20to,day%20over%20consumption%20in%202020.)
-[^0]: [Hannah Ritchie, Max Roser and Pablo Rosado (2020) - "Energy"](https://ourworldindata.org/fossil-fuels#licence)
-[^3]: [Short-term Energy Outlook, EIA (2022)](https://www.eia.gov/outlooks/steo/report/electricity.php)
+7. Raw materials for advanced manufacturing, specially battery metals required for the sustainable energy transition is dominated by China. Mining is geographically concentrated in a few countries in South America, Africa and Australia although secured by Chinese interests through majority stakes. The processing technologies to yield battery grade materials is >60% controlled by China as well. Although there is significant research into new chemistries, at the moment, the primary rate limiter of scaling EVs is battery cell production, therefore, it is beholden to China. 
