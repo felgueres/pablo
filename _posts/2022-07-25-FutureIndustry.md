@@ -1,28 +1,58 @@
 ---
 layout: post
-title: 'Narratives advancing technology'
+title: 'What are the narratives advancing technology?'
 date:   2022-07-24 15:13:25 -0700
 ---
 
-This is a summary of the themes I'm able to pick up in my world.
+Technology is advanced by social and political choices.  
+Below are the narratives that seem most salient in advancing technology, as it
 
-If technology is advanced by social and political choices, these are the narratives that seem most salient right now.
+**P**: Problem space  
+**S**: Solution space  
+**R**: Resources
 
-1. The US ability to manufacture competitively has been eroded by 50 years of offshoring. What started as outsourcing exclusively manufacturing has now evolved into mfg, eng and design of new products by these firms. 
+Table of Contents
+1. Rethinking Weapon Systems
+2. Restructuring Supply Chains
+3. Institutional Malaise
+4. Geopolitics and Self-Reliance 
+5. Scaling Batteries 
+6. Industry from Space 
+7. Securing Industry 
 
-   Looking into the inflows for production: materials, labor, energy and capital, the belief is that inadequate labor supply and higher regulation costs relative to China are the primary sources of delta.  
+---
+&nbsp;
 
-   **Solution space:** immigration policies, near-shoring, robotics, and, automation. 
-   Some belive in the Nile of the West -- a new corridor guided by the Mississipi basin and including the Heartland states, Texas, Florida, and parts of industrialized northern Mexico.
+1. **Rethinking Weapon Systems.** The future of warfare is the combination of exquisite platforms and distributed, low cost, autonomous systems. The DoD highly consolidated suppliers lack the incentive structure to deliver on the latter.
 
-2. Another interpetation of this is that the US moved into an intangibles economy. The growth stagnation is explained by either lack of competition between these new firms or the wrong financial institutions to support them. 
+   **P**: Cost-plus contracts are too slow and extremely costly, mismatch of talent competencies, cultural shock 
 
-3. US is reevaluating its self-reliance to China on strategic manufacturing sectors. Mainly in defense, semiconductors and chips, and the mining and refining of critical technology metals. 
+   **S**: Diffusion of consumer-based technology and talent into defense, innovative funding structures, revamp of IP  
 
-4. The US government is unable to carry infrastructure modernization of the country. A key driver is the low access of top talent given market competition, primarily from Tech. VCs believe there is a 
+   **R**: The Kill Chain, Rebooting Defense, Maverick storyline
 
-5. Software-only is saturated. A16Z is dedicating rougly 1/3 of their resources to Web3, the rest between SaaS and cautiously into a wave of new physical + software products that promise capturing greater basis points of GDP.
+2. **Restructuring Supply Chains.** US firms have the economically rational model of leaning supply chain in exchange of higher margins. The unseen effect is the exposure to supply chain disruptions and costs once it materializes. Framing the size of this operation is often not clear, but >90% of Fortune 500 companies have some for of investment in Chinese supply chains. 
 
-6. The DoD has realized that platforms are not the future of war but rather, distributed, lower cost, autonomous systems. The consolidated supplier base of 5 primes (an order of magnitude less than in 1990s) does not excel at these technologies nor have the correct incentive structure to build with urgency and competitively. 
+   **P**: Inadequate labor supply and higher regulation relative to China are the main contributors to higher cost. Other primary inputs like industrial energy, both electrical and heat, are roughly on par between US and China. 
+   
+   **S**: New immigration, retraining workforce, near-shoring to Mexico, tighter supply cooperation, robotics, and, automation
 
-7. Raw materials for advanced manufacturing, specially battery metals required for the sustainable energy transition is dominated by China. Mining is geographically concentrated in a few countries in South America, Africa and Australia although secured by Chinese interests through majority stakes. The processing technologies to yield battery grade materials is >60% controlled by China as well. Although there is significant research into new chemistries, at the moment, the primary rate limiter of scaling EVs is battery cell production, therefore, it is beholden to China. 
+   **R**: The Reshoring Imperative
+
+3. **Government Malaise**. Government has an incentives and talent problem. Legislators compensation is not tighed to outcomes and their ability to attract talent is hindered by competitive salaries and the perception.
+
+   **P**: Inability to modernize infrastructure, erosion of American values
+   **
+
+4. **Geopolitics Heating Up.**. CCP has increased defense spending by 800% since the 90s, although less than what they spend in their domestic spying apparatus -- a tell sign of what is more worrisome. 
+
+5. **Scaling Batteries**. Transitioning to sustainable energy is one of civilization's acid tests. The energy system is based on generation, distribution, and consumption. Tesla is taking at least for now on the generation and consumption pieces with solar PV and EVs.
+
+Mining is geographically concentrated in a few countries in South America, Africa and Australia although secured by Chinese interests through majority stakes. The processing technologies to yield battery grade materials is >60% controlled by China as well. Although there is significant research into new chemistries, at the moment, the primary rate limiter of scaling EVs is battery cell production, therefore, it is beholden to China. 
+
+6.  **Supply Chains in Space**. Reusable rockets will unlock a dramatic improvement in the cost of tonnage-to-orbit, sort of equivalent to space highways. Reliable and low cost access to space is critical for national security, connectivity, and deep space research. It also opens up the door to industrialize the 
+
+   **S**: This is a new market opportunity where new and old concepts will be implemented. At minimum there will be  
+
+**Less understood lines**.
+- The financialization of the economy favors purchasing assets instead of building new ones. 
