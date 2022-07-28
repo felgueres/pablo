@@ -21,7 +21,7 @@ Examining the narratives floating around can give us insight into where we are h
 ## **Rethinking defense systems**
 The US is ahead of its adversaries when it comes to exquisite platforms like aircraft carriers and F-35s. But bumping heads is not China's strategy, it is to develop asymmetric advantages. 
 
-As China ramps up their defense spending (800% increase since 1990), a key element of their arsenal is lower cost, distributed and autonomous systems. In the west, Sillicon Valley is tapping into their deep defense roots. The rate limiters of progress seem to be IP regulation, available 'patient' capital, and hurdles of compliance for new entrants.  
+As China ramps up their defense spending (800% increase since 1990), a key element of their arsenal is lower cost, distributed and autonomous systems. In the west, Sillicon Valley is tapping into their deep defense roots. The rate limiters of progress seem to be IP regulation, available 'patient' capital, and hurdles of compliance for new DoD suppliers.  
 
 See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), [Rebooting The Arsenal](https://www.rebootingthearsenal.com/), [Unrestricted Warfare](https://en.wikipedia.org/wiki/Unrestricted_Warfare)
 
