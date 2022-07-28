@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Materialism'
+title: 'Cultural Form and Function'
 date:   2022-01-24 15:13:25 -0700
-published: false
+published: false 
 ---
 
 #### Access To Energy Correlates with Life Quality
@@ -39,7 +39,7 @@ In philosophy and economy
 - Architecture has become superficial and shallow, focuses on formal appearance rather than its larger purpose. Koolhas, Junkspace
 - There has to be substance for the work to hold up.
 
-### Huge concentration of information in digital form will flow to physical
+## Huge concentration of information in digital form will flow to physical
 - Cheap mass produced products towards niche designs and the work of artisans (Anderson 2012, Makers) 
 - Seemlessly swap and modify design data without constraint in time and space. Increase in choice and possibility, the awareness of like-minded others, space-time availability, and reassurance of unlimited ability given all these is revolutionary.
 - Information, especially human creativity, is concentrated in digital form. Programmable manufacturing will make this flow from digital to physical. 

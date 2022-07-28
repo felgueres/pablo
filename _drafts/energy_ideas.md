@@ -92,3 +92,9 @@ References
    - US has an inadequate labor force -- in size and training.
 7. There are strategic areas for self-reliance and national security: 
    - Chips, AI 
+
+## US-China Bumping Heads
+CCP has increased defense spending by 800% since the 90s. Although less than what they spend in their domestic spying apparatus, a tell sign of whay they find most worrisome. 
+
+---
+In writing there is a thrill that, in the process, I may discover an anomaly or something new. But what appeals me most is how it extends memory, it allows me to relive the moment of when I wrote these words.
