@@ -21,16 +21,18 @@ Examining the narratives floating around can give us insight into where we are h
 ## **Rethinking defense systems**
 The US is ahead of its adversaries when it comes to exquisite platforms like aircraft carriers and F-35s. But bumping heads is not China's strategy, it is to develop asymmetric advantages. 
 
-As China ramps up their defense spending (800% increase since 1990), a key element of their arsenal is lower cost, distributed and autonomous systems. In the west, Sillicon Valley is tapping into their deep defense roots. The rate limiters of progress seem to be IP regulation, available 'patient' capital, and hurdles of compliance for new DoD suppliers.  
+As China ramps up their defense spending, a key element of their arsenal is low cost, distributed and autonomous systems. 
+
+Sillicon Valley is tapping into their defense roots and figuring out ways to diffuse consumer technology into defense. The rate limiters of progress seem to be IP regulation, available 'patient' capital, and the security hurdles to work with the DoD.  
 
 See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), [Rebooting The Arsenal](https://www.rebootingthearsenal.com/), [Unrestricted Warfare](https://en.wikipedia.org/wiki/Unrestricted_Warfare)
 
 ---
 &nbsp;
 ## **Restructuring supply chains**
-More than 94% of Fortune 500 companies have some for of investment in Chinese supply chains. In the last 50 years, US firms followed the outsourcing model; move supply chains overseas to improve margins and reinvest in developing new products. The unseen effect of leaning supply chains is the increased risk to disruptions.
+More than 94% of Fortune 500 companies have some for of investment in Chinese supply chains. In the last 50 years, US firms followed the outsourcing model; move supply chains overseas to improve margins and reinvest in developing new products. The unseen effect is an increased risk to disruptions which in turns hampers the ability to maintain our quality of life. 
 
-Restoring the industrial base is imperative for national interest. The challenge is to rebuild in the context of limited labor force. Robotics, immigration, near-shoring and automation are the main arrows.
+Restoring the industrial base is imperative for national interest. The challenge is to rebuild in the context of a limited labor force using robotics, new immigration policies, and automation. 
 
 See: [The Reshoring Imperative](https://americanaffairsjournal.org/2021/11/the-reshoring-imperative/), [Restoring American Competitiveness](https://hbr.org/2009/07/restoring-american-competitiveness)
 
