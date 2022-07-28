@@ -1,0 +1,51 @@
+---
+---
+
+@import "minima";
+
+.wrapper {
+    max-width: 500px;
+}
+
+.post-link { display: inline; font-size: 1rem;}
+.post-list-heading { font-size: 1rem; margin-bottom: 0px;}
+.site-title { font-size: 22px; } 
+.post-title { font-size: 24px; letter-spacing: -1px; line-height: 1; color: #171a20;}
+
+.post-link::before{
+    content: "• ";
+}
+
+.post-content h2 {
+    font-size: 1rem;
+}
+
+#banner {
+    table-layout: fixed;
+    border-style: hidden;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 0.85rem;
+    line-height: 1.3rem;
+}
+
+.title {
+    font-size: 1.5rem;
+}
+
+.alignleft {
+    float: left;
+}
+.alignright {
+    float: right;
+}
+
+.post-list > li {
+    margin-bottom: 3px;
+}
+
+hr {
+    border: 1px solid #eee
+}
