@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Future by narrative'
+title: 'Technology narratives'
 date:   2022-07-24 15:13:25 -0700
 ---
 
@@ -19,38 +19,27 @@ Examining the narratives floating around can give us insight into where we are h
 ---
 &nbsp;
 ## **Rethinking defense systems**
-The US is ahead of its adversaries when it comes to exquisite platforms like aircraft carriers and F-35s. But bumping heads is not China's strategy, it is rather to develop asymmetric advantages in the long term. Take them at their [word](https://en.wikipedia.org/wiki/Unrestricted_Warfare#Defense_against_unrestricted_warfare). 
+The US is ahead of its adversaries when it comes to exquisite platforms like aircraft carriers and F-35s. But bumping heads is not China's strategy, it is to develop asymmetric advantages. 
 
-As China ramps up their defense spending (800% increase since 1990), a key element of their arsenal is lower cost, distributed and autonomous systems. The CCP advantage is the ability to muster talent and technology from any firm and diffuse it into their defense needs.
-
-But the DoD and its heavilty consolidated supplier base does not excel at this new capabilities and the voices are coming from inside the house. A competitive market for talent, cultural and cost-plus contracts are structural barriers that limit the rate of innovation. 
-
-Sillicon Valley is tapping into their deep defense roots. 
-The innovation rate limiters into seems to be IP regulation, patient capital, and the slow process of rebuilding a manufacturing stock. 
+As China ramps up their defense spending (800% increase since 1990), a key element of their arsenal is lower cost, distributed and autonomous systems. In the west, Sillicon Valley is tapping into their deep defense roots. The rate limiters of progress seem to be IP regulation, available 'patient' capital, and hurdles of compliance for new entrants.  
 
 See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), [Rebooting The Arsenal](https://www.rebootingthearsenal.com/), [Unrestricted Warfare](https://en.wikipedia.org/wiki/Unrestricted_Warfare)
 
 ---
 &nbsp;
 ## **Restructuring supply chains**
-In the last 50 years, US firms followed the outsourcing model. Move supply chains to China to improve margins and reinvest profits in engineering and design to develop new products. More than 90% of Fortune 500 companies have some for of investment in Chinese supply chains[^1-**addsource**]. 
+More than 94% of Fortune 500 companies have some for of investment in Chinese supply chains. In the last 50 years, US firms followed the outsourcing model; move supply chains overseas to improve margins and reinvest in developing new products. The unseen effect of leaning supply chains is the increased risk to disruptions.
 
-The unseen effect of leaning supply chains is the increased risk to disruptions.
-
-Inadequate labor supply and higher regulation relative to China are the main contributors to higher cost. Other primary inputs like industrial energy, both electrical and heat, are roughly on par between US and China. 
-   
-New immigration, retraining workforce, near-shoring to Mexico, tighter supply cooperation, robotics, and, automation is the narrative pushing us forward.
+Restoring the industrial base is imperative for national interest. The challenge is to rebuild in the context of limited labor force. Robotics, immigration, near-shoring and automation are the main arrows.
 
 See: [The Reshoring Imperative](https://americanaffairsjournal.org/2021/11/the-reshoring-imperative/), [Restoring American Competitiveness](https://hbr.org/2009/07/restoring-american-competitiveness)
 
 ---
 &nbsp;
 ## **Serious entrepreneurs against the malaise**
-There is the prevailing belief that the west is destined for decline. With the trust in institutions is at an all-time low and strong signals of stagflation, we must muster our strongest tool: free markets. 
+There is the prevailing low trust of government institutions to innovate infrastructure, the belief is that we should muster free markets. It starts with incentives, legislators compensation is not tighed to outcomes and their ability to attract talent is hindered by low salaries and the perceived bureucratic culture. 
 
-The realm of government has an incentives and talent problem. Legislators compensation is not tighed to outcomes and their ability to attract talent is hindered by low salaries and the perceived bureucratic culture. 
-
-Although the model of venture capital has not been one of patience, the infrastructure level innovations to push us forward represent bigger shares of GDP after all.  
+Although venture capital is not traditionally a model patient capital, the projects that could be tackled by this new archteype of startups have a chance to take on larger shares of GDP.  
 
 See: [American Dynamism](https://future.com/building-american-dynamism/), [A New Industrialist roundup](https://noahpinion.substack.com/p/a-new-industrialist-roundup)
 
@@ -59,9 +48,9 @@ See: [American Dynamism](https://future.com/building-american-dynamism/), [A New
 ## **Three pillars of sustainable energy**
 The transition to sustainable energy depends on deploying supply, demand and matching technologies -- the matching piece is storage. 
 
-The rate limiter to how fast we can go hinges on battery cell production. When you drill further down the battery cost structure, the materials to produce the cathode are the crux of the problem. 
+The rate limiter to how fast we can go hinges on battery cell production. Drilling further, the crux is on the availability and price of raw materials. 
 
-Although the key minerals -- Nickel and Lithium -- are ubiqutuous, the US does not currently have commerical mining and refining operations for them. China has been on a 30-year campaign to secure controlling stakes worldwide and develop the refining technologies to be a provider of the world. In hindsight, China ate our lunch, but the batteries production are our wedge to get back on the metals saddle. 
+The key minerals -- Nickel and Lithium -- are ubiqutuous, but the US does not currently have commerical mining and refining operations for them. China has been on a 30-year campaign to secure mining and processing technologies to be a provider of the world. 
 
 See: [Battery Day](https://www.youtube.com/watch?v=l6T9xIeZTds), [Securing Metals Supply](https://open.spotify.com/episode/7eGG2ue1roosknotn7S5K9?si=cd1728ea69d74c23)
 
