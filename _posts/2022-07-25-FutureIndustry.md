@@ -1,71 +1,76 @@
 ---
 layout: post
-title: 'Future by Narrative'
+title: 'Future by narrative'
 date:   2022-07-24 15:13:25 -0700
 ---
 
-Technology is the result of social and political choices. An extreme example is [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law), which is not a law, but a social contract of monumental undertaking that continues to deliver 50 years on. 
+Technology is the result of social and political choices. An extreme example is [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law), which is not a law, but a social contract of monumental proportions that continues to deliver 50 years on. 
 
-Examining the narratives we tell our selves can give us insight into where we are heading. In this post I have started to compile the ones that are most salient to me while living in San Francisco.  
+Examining the narratives floating around can give us insight into where we are heading. In this post I have started to compile the ones that are most salient to me. 
 
 <h2>Table of Contents</h2>
 
 [Rethinking defense systems](#rethinking-defense-systems)  
 [Restructuring supply chains](#restructuring-supply-chains)  
-[Seriousness as cure to the cultural malaise](#seriousness-as-cure-to-the-cultural-malaise)  
+[Serious entrepeneurs against the malaise](#serious-entrepreneurs-against-the-malaise)   
 [Three pillars of sustainable energy](#three-pillars-of-sustainable-energy)  
 [Highway to space](#highway-to-space)  
 
 ---
 &nbsp;
 ## **Rethinking defense systems**
-The future of warfare is the combination of exquisite platforms and distributed, low cost, autonomous systems. 
-As China ramps up their defense spending (800% increase since 1990) and looks for asymmetric advantages against the west, the US has to rethink their 
+The US is ahead of its adversaries when it comes to exquisite platforms like aircraft carriers and F-35s. But bumping heads is not China's strategy, it is rather to develop asymmetric advantages in the long term. Take them at their [word](https://en.wikipedia.org/wiki/Unrestricted_Warfare#Defense_against_unrestricted_warfare). 
 
-The DoD prime contractors lack the incentive structure to innovate fast enough and competitively to outpace China.
-Their current talent pool and cost-plus contract structure. 
+As China ramps up their defense spending (800% increase since 1990), a key element of their arsenal is lower cost, distributed and autonomous systems. The CCP advantage is the ability to muster talent and technology from any firm and diffuse it into their defense needs.
 
-The way forward seems to be:
-- Diffusion of consumer-based technology and talent into defense
-- Innovative funding structures
-- Revising IP rules
+But the DoD and its heavilty consolidated supplier base does not excel at this new capabilities and the voices are coming from inside the house. A competitive market for talent, cultural and cost-plus contracts are structural barriers that limit the rate of innovation. 
 
-See: The Kill Chain, Rebooting The Arsenal, State of Competition within Defense Industrial Base 
+Sillicon Valley is tapping into their deep defense roots. 
+The innovation rate limiters into seems to be IP regulation, patient capital, and the slow process of rebuilding a manufacturing stock. 
+
+See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), [Rebooting The Arsenal](https://www.rebootingthearsenal.com/), [Unrestricted Warfare](https://en.wikipedia.org/wiki/Unrestricted_Warfare)
 
 ---
 &nbsp;
 ## **Restructuring supply chains**
-In the last 50 years, US firms have outsourced their supply chains to China seeking to improve margins and reinvest profits in engineering and design to develop new products.
-
-Framing the size of this operation is often not clear, >90% of Fortune 500 companies have some for of investment in Chinese supply chains; this amounts to trillions of dollars. 
+In the last 50 years, US firms followed the outsourcing model. Move supply chains to China to improve margins and reinvest profits in engineering and design to develop new products. More than 90% of Fortune 500 companies have some for of investment in Chinese supply chains[^1-**addsource**]. 
 
 The unseen effect of leaning supply chains is the increased risk to disruptions.
 
 Inadequate labor supply and higher regulation relative to China are the main contributors to higher cost. Other primary inputs like industrial energy, both electrical and heat, are roughly on par between US and China. 
    
-New immigration, retraining workforce, near-shoring to Mexico, tighter supply cooperation, robotics, and, automation
+New immigration, retraining workforce, near-shoring to Mexico, tighter supply cooperation, robotics, and, automation is the narrative pushing us forward.
 
 See: [The Reshoring Imperative](https://americanaffairsjournal.org/2021/11/the-reshoring-imperative/), [Restoring American Competitiveness](https://hbr.org/2009/07/restoring-american-competitiveness)
 
 ---
 &nbsp;
-## **Seriousness as cure to the cultural malaise**
-Government has an incentives and talent problem. Legislators compensation is not tighed to outcomes and their ability to attract talent is hindered by competitive salaries and the perception.
+## **Serious entrepreneurs against the malaise**
+There is the prevailing belief that the west is destined for decline. With the trust in institutions is at an all-time low and strong signals of stagflation, we must muster our strongest tool: free markets. 
 
-   **P**: Inability to modernize infrastructure, erosion of American values
+The realm of government has an incentives and talent problem. Legislators compensation is not tighed to outcomes and their ability to attract talent is hindered by low salaries and the perceived bureucratic culture. 
 
-   See: [American Dynamism](https://future.com/building-american-dynamism/)
+Although the model of venture capital has not been one of patience, the infrastructure level innovations to push us forward represent bigger shares of GDP after all.  
+
+See: [American Dynamism](https://future.com/building-american-dynamism/), [A New Industrialist roundup](https://noahpinion.substack.com/p/a-new-industrialist-roundup)
 
 ---
 &nbsp;
 ## **Three pillars of sustainable energy**
-One of the key rate limiters of the sustainable energy transition is scaling energy storage for both stationary and non-stationary applications.
+The transition to sustainable energy depends on deploying supply, demand and matching technologies -- the matching piece is storage. 
 
-Mining is geographically concentrated in a few countries in South America, Africa and Australia although secured by Chinese interests through majority stakes. The processing technologies to yield battery grade materials is >60% controlled by China as well. Although there is significant research into new chemistries, at the moment, the primary rate limiter of scaling EVs is battery cell production, therefore, it is beholden to China. 
+The rate limiter to how fast we can go hinges on battery cell production. When you drill further down the battery cost structure, the materials to produce the cathode are the crux of the problem. 
+
+Although the key minerals -- Nickel and Lithium -- are ubiqutuous, the US does not currently have commerical mining and refining operations for them. China has been on a 30-year campaign to secure controlling stakes worldwide and develop the refining technologies to be a provider of the world. In hindsight, China ate our lunch, but the batteries production are our wedge to get back on the metals saddle. 
+
+See: [Battery Day](https://www.youtube.com/watch?v=l6T9xIeZTds), [Securing Metals Supply](https://open.spotify.com/episode/7eGG2ue1roosknotn7S5K9?si=cd1728ea69d74c23)
 
 ---
 &nbsp;
 ## **Highway to space**
-Reusable rockets are unlocking a dramatic improvement in the cost of tonnage-to-orbit, sort of equivalent to space highways. Reliable and low cost access to space is critical for national security, connectivity, and deep space research. It also opens up the door to industrialize the 
+Space has been historically a low volume, low demand industry given the high CAPEX to move things into orbit. Reusable rockets are dramaticly improving the tonnage to orbit cost, sort of an equivalent to opening a space highway. 
 
-**S**: This is a new market opportunity where new and old concepts will be implemented. At minimum there will be  
+Reliable and low cost access to space is critical for national security, connectivity, and deep space research. But there is also the hopes of building an entirely new supply chain the exploit the properties of low gravity. 
+
+See: [Starship](https://en.wikipedia.org/wiki/SpaceX_Starship)
+

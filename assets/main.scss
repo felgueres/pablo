@@ -12,6 +12,10 @@
 .site-title { font-size: 22px; } 
 .post-title { font-size: 24px; letter-spacing: -1px; line-height: 1; color: #171a20;}
 
+.post-link::before{
+    content: "• ";
+}
+
 .post-content h2 {
     font-size: 1rem;
 }
