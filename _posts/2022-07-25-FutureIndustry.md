@@ -25,7 +25,7 @@ The socialist market economy of China has the structural advantage of being able
 
 In the US, the DoD supplier base is pinned by cost-plus constract incentives that promote very high costs of innovation. An overhaul can't happen soon enough, Sillicon Valley is tapping into their defense roots to bridge this gap.
 
-The rate limiters of progress seem to be IP regulation, available 'patient' capital, and the hurdles to work with the DoD.  
+The rate limiters of progress seem to be IP regulation, available 'patient' capital, and the security overhead to work with the DoD.  
 
 See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), [Rebooting The Arsenal](https://www.rebootingthearsenal.com/), [Unrestricted Warfare](https://en.wikipedia.org/wiki/Unrestricted_Warfare)
 
