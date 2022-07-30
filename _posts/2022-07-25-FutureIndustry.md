@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Narratives of future technology'
+title: 'Narratives for future technology'
 date:   2022-07-24 15:13:25 -0700
 ---
 
