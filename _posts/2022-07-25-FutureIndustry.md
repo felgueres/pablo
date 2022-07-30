@@ -19,11 +19,12 @@ Examining the narratives floating around can give us insight into where we are h
 ---
 &nbsp;
 ## **Rethinking defense systems**
-Spending is becoming less correlated to superiority as new asymmetric technologies are built for the future of warfare. Exquisite platforms like aircraft carriers and F-35s will become less effective as lower cost, distributed, and autonomous systems are deployed. 
+In the future of warfare, spending alone is becoming less correlated with superiority as new asymmetric technologies come online. 
 
-The socialist market economy of China has an structural advantage which is that it is able to diffuse talent and technology from the consumer space -- often leaders in this type of systems -- into their defense base. 
+Exquisite platforms like aircraft carriers and F-35s will become less effective as lower cost, distributed, and autonomous systems come online. 
+The socialist market economy of China has the structural advantage of being able to diffuse talent and technology from the consumer space -- often leaders in this type of systems -- into their defense needs. 
 
-In the US, the DoD supplier base is massively consolidated into 5 primes. As an overhaul of cost-plus incentives can't happen soon enough, Sillicon Valley is tapping into their defense roots to bridge this gap.
+In the US, the DoD supplier base is pinned by a cost-plus constract incentives that promotes long lead times and high costs of innovation. So an overhaul can't happen soon enough, Sillicon Valley needs to tap into their defense roots to bridge this gap.
 
 The rate limiters of progress seem to be IP regulation, available 'patient' capital, and the hurdles to work with the DoD.  
 
@@ -32,21 +33,20 @@ See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirec
 ---
 &nbsp;
 ## **Restructuring supply chains**
-More than 94% of Fortune 500 companies have some for of investment in Chinese supply chains. In the last 50 years, US firms followed the outsourcing model of move manufacturing overseas to improve margins. 
+In the last 50 years, US firms followed the outsourcing model of move manufacturing overseas to improve margins. More than 94% of Fortune 500 companies have some for of investment in Chinese supply chains. The unseen effect is a brittle supply chain accruing risk over time. Like being an old person with a young man insurance -- sure the premium is low but wait to see the deductible. 
 
-The unseen effect is akin to having a health insurance with minimal premium, it all seems fine until it isn't. A brittle supply chain accrues risk over time with very high deductibles. 
+Restoring the industrial base is imperative for national interest. It prevents way of living from being disrupted. The challenge is to rebuild it with limited labor force and globalized competition.
 
-Restoring the industrial base is imperative for national interest. The challenge is to rebuild the industrial base with a limited labor force and globalized  competition.
-Robotics, retraining and upskilling, immigration policy, and automation are the obvious levers.
+Robotics, retraining and upskilling, immigration policy, and automation the obvious levers.
 
 See: [The Reshoring Imperative](https://americanaffairsjournal.org/2021/11/the-reshoring-imperative/), [Restoring American Competitiveness](https://hbr.org/2009/07/restoring-american-competitiveness)
 
 ---
 &nbsp;
 ## **Serious entrepreneurs against the malaise**
-The prevailing low trust of government institutions puts into question their ability to advance the base infrastructure of the US. It starts with bad incentives as legislator compensation is not tied to the outcomes of their policies. 
+Legislators' compensation is not tied to the outcomes of their policies. This is a strong predictor of their ability to advance the underlying infrastructure of the economy. The hope is to increase the Government's efficacy by injecting free markets to it.
 
-Although venture capital is not traditionally a patience model, the startups that tackle this problems have a chance to take on larger shares of GDP, which will justify the longer lead times of investment.
+Although venture capital is not traditionally a patience model, the bold startups attempting to solve these problems have a chance to take on larger shares of GDP and justifying the longer lead times of investment.
 
 See: [American Dynamism](https://future.com/building-american-dynamism/), [A New Industrialist roundup](https://noahpinion.substack.com/p/a-new-industrialist-roundup)
 
@@ -55,9 +55,9 @@ See: [American Dynamism](https://future.com/building-american-dynamism/), [A New
 ## **Three pillars of sustainable energy**
 The transition to sustainable energy depends on deploying supply, demand and matching technologies -- the matching piece is storage. 
 
-The rate limiter to how fast we can go are the raw materials for battery cell production. Although the minerals -- Nickel and Lithium -- are ubiqutuous, the US does not currently have commerical mining and refining operations. 
+The rate limiter to how fast we can go are the raw materials for battery cell production. And although the minerals -- Nickel and Lithium -- are ubiqutuous, the US does not have commerical mining and refining operations for them. 
 
-China on the other hand seems to be have been on a 30-year campaign to secure mining and processing technologies to be a provider of the world. 
+China on the other has been on a 30-year world campaign to secure mining and processing technologies. 
 
 See: [Battery Day](https://www.youtube.com/watch?v=l6T9xIeZTds), [Securing Metals Supply](https://open.spotify.com/episode/7eGG2ue1roosknotn7S5K9?si=cd1728ea69d74c23)
 
