@@ -34,9 +34,10 @@ See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirec
 ## **Restructuring supply chains**
 More than 94% of Fortune 500 companies have some for of investment in Chinese supply chains. In the last 50 years, US firms followed the outsourcing model of move manufacturing overseas to improve margins. 
 
-The unseen effect is a brittle supply chain prone to disruptions. Restoring the industrial base is imperative for national interest. 
+The unseen effect is akin to having a health insurance with minimal premium, it all seems fine until it isn't. A brittle supply chain accrues risk over time with very high deductibles. 
 
-The challenge is to rebuild the industrial base with a limited labor force and globalized  competition. Robotics, retraining and upskilling, immigration policy, and automation are the obvious levers.
+Restoring the industrial base is imperative for national interest. The challenge is to rebuild the industrial base with a limited labor force and globalized  competition.
+Robotics, retraining and upskilling, immigration policy, and automation are the obvious levers.
 
 See: [The Reshoring Imperative](https://americanaffairsjournal.org/2021/11/the-reshoring-imperative/), [Restoring American Competitiveness](https://hbr.org/2009/07/restoring-american-competitiveness)
 
