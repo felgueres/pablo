@@ -32,7 +32,7 @@ See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirec
 ---
 &nbsp;
 ## **Restructuring supply chains**
-In the last 50 years, US firms followed the outsourcing model of move manufacturing overseas to improve margins. More than 94% of Fortune 500 companies have some for of investment in Chinese supply chains. The unseen effect is a brittle supply chain accruing risk over time. Like being an old person with a young man insurance -- sure the premium is low but wait to see the deductible. 
+In the last 50 years, US firms followed the outsourcing model of moving manufacturing overseas to improve margins. More than 94% of Fortune 500 companies have some for of investment in Chinese supply chains. The unseen effect is a brittle supply chain accruing risk over time. Like being an old person with a young man insurance -- sure the premium is low but wait to see the deductible. 
 
 Restoring the industrial base is imperative for national interest. It prevents way of living from being disrupted. The challenge is to rebuild it with limited labor force and globalized competition.
 
