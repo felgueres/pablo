@@ -21,27 +21,29 @@ Examining the narratives floating around can give us insight into where we are h
 ## **Rethinking defense systems**
 The US is ahead of its adversaries when it comes to exquisite platforms like aircraft carriers and F-35s. But bumping heads is not China's strategy, it is to develop asymmetric advantages. 
 
-As China ramps up their defense spending, a key element of their arsenal is low cost, distributed and autonomous systems. 
+As China ramps up their defense spending, a key element of their arsenal is low cost, distributed and autonomous systems. Sillicon Valley is tapping into their defense roots and figuring out ways to diffuse consumer technology into defense. 
 
-Sillicon Valley is tapping into their defense roots and figuring out ways to diffuse consumer technology into defense. The rate limiters of progress seem to be IP regulation, available 'patient' capital, and the security hurdles to work with the DoD.  
+The rate limiters of progress seem to be IP regulation, available 'patient' capital, and the security hurdles to work with the DoD.  
 
 See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), [Rebooting The Arsenal](https://www.rebootingthearsenal.com/), [Unrestricted Warfare](https://en.wikipedia.org/wiki/Unrestricted_Warfare)
 
 ---
 &nbsp;
 ## **Restructuring supply chains**
-More than 94% of Fortune 500 companies have some for of investment in Chinese supply chains. In the last 50 years, US firms followed the outsourcing model; move supply chains overseas to improve margins and reinvest in developing new products. The unseen effect is an increased risk to disruptions which in turns hampers the ability to maintain our quality of life. 
+More than 94% of Fortune 500 companies have some for of investment in Chinese supply chains. In the last 50 years, US firms followed the outsourcing model of move manufacturing overseas to improve margins. 
 
-Restoring the industrial base is imperative for national interest. The challenge is to rebuild in the context of a limited labor force using robotics, new immigration policies, and automation. 
+The unseen effect is a brittle supply chain prone to disruptions. Restoring the industrial base is imperative for national interest. 
+
+The challenge is to rebuild the industrial base with a limited labor force and globalized  competition. Robotics, retraining and upskilling, immigration policy, and automation are the obvious levers.
 
 See: [The Reshoring Imperative](https://americanaffairsjournal.org/2021/11/the-reshoring-imperative/), [Restoring American Competitiveness](https://hbr.org/2009/07/restoring-american-competitiveness)
 
 ---
 &nbsp;
 ## **Serious entrepreneurs against the malaise**
-There is the prevailing low trust of government institutions to innovate infrastructure, the belief is that we should muster free markets. It starts with incentives, legislators compensation is not tighed to outcomes and their ability to attract talent is hindered by low salaries and the perceived bureucratic culture. 
+The prevailing low trust of government institutions puts into question their ability to advance the base infrastructure of the US. It starts with bad incentives as legislator compensation is not tied to the outcomes of their policies. 
 
-Although venture capital is not traditionally a model patient capital, the projects that could be tackled by this new archteype of startups have a chance to take on larger shares of GDP.  
+Although venture capital is not traditionally a patience model, the startups that tackle this problems have a chance to take on larger shares of GDP, which will justify the longer lead times of investment.
 
 See: [American Dynamism](https://future.com/building-american-dynamism/), [A New Industrialist roundup](https://noahpinion.substack.com/p/a-new-industrialist-roundup)
 
