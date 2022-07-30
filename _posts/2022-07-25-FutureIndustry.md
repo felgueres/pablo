@@ -19,11 +19,11 @@ Examining the narratives floating around can give us insight into where we are h
 ---
 &nbsp;
 ## **Rethinking defense systems**
-In the future of warfare, spending is becoming less correlated with superiority as new asymmetric technologies come online. Exquisite platforms like aircraft carriers and F-35s will become less effective as lower cost, distributed, and autonomous systems come online. 
+In the future of warfare, spending is becoming less correlated with primacy as new asymmetric technologies come online. Exquisite platforms like aircraft carriers and F-35s are less effective against lower cost, distributed, and autonomous systems. 
 
 The socialist market economy of China has the structural advantage of being able to diffuse talent and technology from the consumer space -- often leaders in this type of systems -- into their defense needs. 
 
-In the US, the DoD supplier base is pinned by a cost-plus constract incentives that promotes long lead times and high costs of innovation. So an overhaul can't happen soon enough, Sillicon Valley needs to tap into their defense roots to bridge this gap.
+In the US, the DoD supplier base is pinned by cost-plus constract incentives that promotes long lead times and high costs of innovation. An overhaul can't happen soon enough, Sillicon Valley needs to tap into their defense roots to bridge this gap.
 
 The rate limiters of progress seem to be IP regulation, available 'patient' capital, and the hurdles to work with the DoD.  
 
