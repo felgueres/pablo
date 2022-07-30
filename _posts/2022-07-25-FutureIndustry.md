@@ -45,7 +45,9 @@ See: [The Reshoring Imperative](https://americanaffairsjournal.org/2021/11/the-r
 ---
 &nbsp;
 ## **Serious entrepreneurs against the malaise**
-Legislators' compensation is not tied to the outcomes of their policies. This is a strong predictor of their ability to advance the infrastructure of our economy -- mediocre at best. Can we increase the Government's efficacy by parlaying it with free markets?
+Legislators' compensation is not tied to the outcomes of their policies. This is a strong predictor of their ability to advance the infrastructure of our economy -- mediocre at best. 
+
+Can we increase the Government's efficacy by parlaying it with free markets?
 
 Although venture capital is not traditionally a patience model, the bold startups attempting to solve these problems have a chance to take on larger shares of GDP and justifying the longer lead times of investment.
 
