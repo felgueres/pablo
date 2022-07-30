@@ -19,11 +19,13 @@ Examining the narratives floating around can give us insight into where we are h
 ---
 &nbsp;
 ## **Rethinking defense systems**
-The US is ahead of its adversaries when it comes to exquisite platforms like aircraft carriers and F-35s. But bumping heads is not China's strategy, it is to develop asymmetric advantages. 
+Spending is becoming less correlated to superiority as new asymmetric technologies are built for the future of warfare. Exquisite platforms like aircraft carriers and F-35s will become less effective as lower cost, distributed, and autonomous systems are deployed. 
 
-As China ramps up their defense spending, a key element of their arsenal is low cost, distributed and autonomous systems. Sillicon Valley is tapping into their defense roots and figuring out ways to diffuse consumer technology into defense. 
+The socialist market economy of China has an structural advantage which is that it is able to diffuse talent and technology from the consumer space -- often leaders in this type of systems -- into their defense base. 
 
-The rate limiters of progress seem to be IP regulation, available 'patient' capital, and the security hurdles to work with the DoD.  
+In the US, the DoD supplier base is massively consolidated into 5 primes. As an overhaul of cost-plus incentives can't happen soon enough, Sillicon Valley is tapping into their defense roots to bridge this gap.
+
+The rate limiters of progress seem to be IP regulation, available 'patient' capital, and the hurdles to work with the DoD.  
 
 See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), [Rebooting The Arsenal](https://www.rebootingthearsenal.com/), [Unrestricted Warfare](https://en.wikipedia.org/wiki/Unrestricted_Warfare)
 
