@@ -23,7 +23,7 @@ In the future of warfare, spending is becoming less correlated with primacy as n
 
 The socialist market economy of China has the structural advantage of being able to diffuse talent and technology from the consumer space -- often leaders in this type of systems -- into their defense needs. 
 
-In the US, DoD prime suppliers are pinned by cost-plus incentives that promote high costs of innovation. An overhaul can't happen soon enough, Sillicon Valley is tapping into their defense roots to bridge this gap.
+In the US, DoD prime suppliers are pinned by cost-plus incentives that promote high costs of innovation. An overhaul can't happen soon enough, Sillicon Valley is tapping into their defense roots to bridge the gap.
 
 The rate limiters of progress seem to be IP regulation, available 'patient' capital, and the security overhead to work with the DoD.  
 
