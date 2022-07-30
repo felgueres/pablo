@@ -52,9 +52,9 @@ See: [American Dynamism](https://future.com/building-american-dynamism/), [A New
 ## **Three pillars of sustainable energy**
 The transition to sustainable energy depends on deploying supply, demand and matching technologies -- the matching piece is storage. 
 
-The rate limiter to how fast we can go hinges on battery cell production. Drilling further, the crux is on the availability and price of raw materials. 
+The rate limiter to how fast we can go are the raw materials for battery cell production. Although the minerals -- Nickel and Lithium -- are ubiqutuous, the US does not currently have commerical mining and refining operations. 
 
-The key minerals -- Nickel and Lithium -- are ubiqutuous, but the US does not currently have commerical mining and refining operations for them. China has been on a 30-year campaign to secure mining and processing technologies to be a provider of the world. 
+China on the other hand seems to be have been on a 30-year campaign to secure mining and processing technologies to be a provider of the world. 
 
 See: [Battery Day](https://www.youtube.com/watch?v=l6T9xIeZTds), [Securing Metals Supply](https://open.spotify.com/episode/7eGG2ue1roosknotn7S5K9?si=cd1728ea69d74c23)
 
