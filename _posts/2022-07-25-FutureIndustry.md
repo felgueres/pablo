@@ -36,7 +36,7 @@ In the last 50 years, US firms followed the outsourcing model of moving manufact
 
 The unseen effect is a brittle supply chain accruing risk over time. It is like being an old person with a young man insurance -- sure the premium is low but wait to see the deductible. 
 
-Restoring the industrial base is imperative for national interest as it protects our way of living from being disrupted. The challenge is to rebuild in the context of a limited labor force and globalized competition.
+Restoring the industrial base is imperative for national interest as it protects our way of living from being disrupted. The challenge is to do it with a limited labor force and under the high pressure of globalization.
 
 Robotics, retraining and upskilling, immigration policy, and automation are the immediate levers.
 
