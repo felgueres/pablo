@@ -4,7 +4,7 @@ title: 'Narratives for future technology'
 date:   2022-07-24 15:13:25 -0700
 ---
 
-Technology is the result of social and political choices. An extreme example is [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law), which is not a law, but a social contract of monumental proportions that continues to deliver 50 years on. 
+Technology is the result of social and political choices. An extreme example is [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law), which is not a law, but a social contract of signifant proportions that continues to deliver 50 years on. 
 
 Examining the narratives floating around can give us insight into where we are heading. In this post I have started to compile the ones that are most salient to me. 
 
