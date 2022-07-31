@@ -21,9 +21,9 @@ Examining the narratives floating around can give us insight into where we are h
 ## **Rethinking defense systems**
 In the future of warfare, spending is becoming less correlated with primacy as new asymmetric technologies come online. Exquisite platforms like aircraft carriers and F-35s are less effective against lower cost, distributed, and autonomous systems. 
 
-The socialist market economy of China has the structural advantage of being able to diffuse talent and technology from the consumer space -- often leaders in this type of systems -- into their defense needs. 
+The socialist market economy of China has the structural advantage of being able to diffuse talent and technology from the consumer space -- often leaders in autonomous systems -- into their defense needs. 
 
-In the US, DoD prime suppliers are pinned by cost-plus incentives that promote high costs of innovation. An overhaul can't happen soon enough, Sillicon Valley is tapping into their defense roots to bridge the gap.
+In the US, DoD prime suppliers are driven by cost-plus contracts that promote high costs of innovation. An overhaul can't happen soon enough, Sillicon Valley is tapping into their defense roots to bridge the gap.
 
 The rate limiters of progress seem to be IP regulation, available 'patient' capital, and the security overhead to work with the DoD.  
 
@@ -34,9 +34,9 @@ See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirec
 ## **Restructuring supply chains**
 In the last 50 years, US firms followed the outsourcing model of moving manufacturing overseas to improve margins. Today, at least 94% of Fortune 500 companies have some for of investment in Chinese supply chains. 
 
-The unseen effect is a brittle system accruing risk over time. It is like being an old person with a young man insurance -- sure the premium is low but wait for when you pay the deductible. 
+The unseen effect is a brittle system accruing risk over time. It is like being an old person with a young man insurance -- sure the premium is low but wait to pay the deductible. 
 
-Restoring the industrial base is imperative for national interest as it protects our way of living from being disrupted. The challenge is to do it with a limited labor force and under the high pressure of globalization.
+Restoring the industrial base is imperative for national interest as it protects our way of living from being disrupted. The challenge is to do it with a limited labor force and under the high competitive pressure of globalization.
 
 Robotics, retraining and upskilling, immigration policy, and automation are the immediate levers.
 
@@ -58,9 +58,9 @@ See: [American Dynamism](https://future.com/building-american-dynamism/), [A New
 ## **Three pillars of sustainable energy**
 The transition to sustainable energy depends on deploying supply, demand and matching technologies -- the matching piece is storage. 
 
-The rate limiter to how fast we can go are the raw materials for battery cell production. And although the minerals -- Nickel and Lithium -- are ubiqutuous, the US does not have commerical mining and refining operations for them. 
+The rate limiter are access to raw materials for battery cell production. And although the minerals -- Nickel and Lithium -- are ubiqutuous, the US does not have commerical mining and refining operations for them. 
 
-China on the other has been on a 30-year world campaign to secure mining and processing technologies. 
+China on the other hand has been on a 30-year campaign to secure mining operations and developing processing technologies. Unless we rethink and allocate capital, the transition is beholden to them.   
 
 See: [Battery Day](https://www.youtube.com/watch?v=l6T9xIeZTds), [Securing Metals Supply](https://open.spotify.com/episode/7eGG2ue1roosknotn7S5K9?si=cd1728ea69d74c23)
 
