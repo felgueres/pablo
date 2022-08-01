@@ -32,7 +32,7 @@ See: [The Kill Chain](https://www.amazon.com/dp/B07W5DH8M6/ref=dp-kindle-redirec
 ---
 &nbsp;
 ## **Restructuring supply chains**
-In the last 50 years, US firms followed the outsourcing model of moving manufacturing overseas to improve margins. Today, at least 94% of Fortune 500 companies have some for of investment in Chinese supply chains. 
+In the last 50 years, US firms followed the outsourcing model of moving manufacturing overseas to improve margins. Today, at least 94% of Fortune 500 companies have some form of investment in Chinese supply chains. 
 
 The unseen effect is a brittle system accruing risk over time. It is like being an old person with a young man insurance -- sure the premium is low but wait to pay the deductible. 
 
