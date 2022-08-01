@@ -4,9 +4,10 @@ title: 'Narratives in American Industry'
 date:   2022-07-24 15:13:25 -0700
 ---
 
-Technology is the result of social and political choices. An extreme example is [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law), which is not a law, but a social contract of significant proportions that continues to deliver 50 years on. 
+Technology is the result of social and political choices.  
+An extreme example is [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law), which was merely an observation about the improvement of integrated circuits that has held up since 1965.  
 
-Examining the narratives floating around can give us insight into where we are heading. In this post I have started to compile the ones that are most salient to me. 
+Examining the narratives can give us insight into where we are heading and what we are missing. In this post I have started to compile the ones that are most salient to me. 
 
 <h2>Table of Contents</h2>
 
