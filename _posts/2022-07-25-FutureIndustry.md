@@ -58,7 +58,7 @@ See: [American Dynamism](https://future.com/building-american-dynamism/), [A New
 ## **Three pillars of sustainable energy**
 The transition to sustainable energy depends on deploying supply, demand and matching technologies -- the matching piece is storage. 
 
-The rate limiter are access to raw materials for battery cell production. And although the minerals -- Nickel and Lithium -- are ubiqutuous, the US does not have commerical mining and refining operations for them. 
+The rate limiter is access to raw materials for battery cell production. And although the minerals -- Nickel and Lithium -- are ubiqutuous, the US does not have commerical mining and refining operations for them. 
 
 China on the other hand has been on a 30-year campaign to secure mining operations and developing processing technologies. Unless we rethink and allocate capital, the transition is beholden to them.   
 
