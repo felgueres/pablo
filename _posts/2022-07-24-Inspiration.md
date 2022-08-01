@@ -8,11 +8,11 @@ published: True
 An underestimated driver of progress is the sources of inspiration around us.  
 One of my favorites came from watching cooking videos on youtube.
 
-He is the classic underdog. An unassuming character who realizes the world is at odds with him but decides to better himself at whatever the cost. He also believes it must happen on his own terms, as his ability to succeed does not hinge on becoming the person above on the ladder, but rather it is himself worth rising. 
+He is the classic underdog. An unassuming character who realizes the world is at odds with him but decides to better himself at whatever the cost. He also believes it must happen on his own terms, as success is not to become the person above on the ladder, but rather it is himself worth rising. 
 
-Marco Pierre White strook me as a version of this character. He pushed 20 years to the top of cuisine to realize that being part of a world not dictated by him is one he rather opt out of. He renounced to the Michelin stars -- and all the concommitant benefits -- in favor of finding a new dream. This is the uncompromised character that [Emerson](https://archive.vcu.edu/english/engweb/transcendentalism/authors/emerson/essays/selfreliance.html) described. 
+Marco Pierre White strook me as a version of this character. He relentlessly pushed for 20 years to the top of cuisine to realize he was being judged by people with less skill and knowledge than him. He renounced the Michelin stars -- and all the concommitant benefits -- in favor of finding a new dream. This is the uncompromised character that [Emerson](https://archive.vcu.edu/english/engweb/transcendentalism/authors/emerson/essays/selfreliance.html) described. 
 
-Whether a cook, an artist or a scientist, it is not the details but the individuality that connects us all. **The ability to reason about the world and our agency to mold it.** Inspiration from others abounds but it also quickly fades. Sort of a fire starter that you can summon on command but its up to you to throw in the logs to keep it alight.
+Whether a cook or a scientist, it is not the details but the individuality that connects us all. **The ability to reason about the world and our agency to mold it.** Inspiration from others abounds but it also quickly fades. Sort of a fire starter that you can summon on command but its up to you to throw in the logs to keep it alight.
 
 ------ 
 
