@@ -69,7 +69,7 @@ See: [Battery Day](https://www.youtube.com/watch?v=l6T9xIeZTds), [Securing Metal
 ## **Highway to space**
 Space has been historically a low volume, low demand industry given the high CAPEX to move things into orbit. Reusable rockets are dramaticly improving the tonnage to orbit cost, sort of the equivalent of opening a highway to space. 
 
-Reliable and low cost access to space is critical for national security, connectivity, and deep space research. But there is also the hopes of building an entirely new supply chain the exploit the properties of low gravity. 
+Reliable and low cost access to space is critical for national security, connectivity, and deep space research. But there is also the hopes of building an entirely new supply chain around exploiting the properties of low gravity. 
 
 See: [Starship](https://en.wikipedia.org/wiki/SpaceX_Starship)
 
