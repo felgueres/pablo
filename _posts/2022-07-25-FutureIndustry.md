@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Narratives in American Industry'
+title: 'Narratives in American industry'
 date:   2022-07-24 15:13:25 -0700
 ---
 
