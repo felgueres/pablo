@@ -12,7 +12,7 @@ Examining the narratives floating around can give us insight into where we are h
 
 [Rethinking defense systems](#rethinking-defense-systems)  
 [Restructuring supply chains](#restructuring-supply-chains)  
-[Serious entrepeneurs against the malaise](#serious-entrepreneurs-against-the-malaise)   
+[Serious entrepreneurs against the malaise](#serious-entrepreneurs-against-the-malaise)   
 [Three pillars of sustainable energy](#three-pillars-of-sustainable-energy)  
 [Highway to space](#highway-to-space)  
 
