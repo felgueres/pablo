@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Narratives for future technology'
+title: 'Narratives for American Industry'
 date:   2022-07-24 15:13:25 -0700
 ---
 
