@@ -6,7 +6,7 @@ date:   2022-07-24 15:13:25 -0700
 
 Technology is the result of social and political choices. An extreme example is [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law), which was merely an observation about the improvement of integrated circuits but has held up since 1965.  
 
-Examining the narratives can give us insight into where we are heading and what we are missing. In this post I have started to compile the most salient in American Industry today. 
+Examining the ongoing narratives can give us insight into where we are heading and what we are missing. In this post I have started to compile the most salient in American Industry today. 
 
 <h2>Table of Contents</h2>
 
