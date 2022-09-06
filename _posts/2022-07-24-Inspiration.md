@@ -5,23 +5,19 @@ date:   2022-07-22 15:13:25 -0700
 published: True 
 ---
 
-An underestimated driver of progress is the sources of inspiration around us.  
+An underestimated driver of progress is the sources of inspiration around us. 
 
-One of my favorites came from watching cooking videos on youtube. He is the classic underdog story. An unassuming character who realizes the world is at odds with him but decides to better himself at whatever the cost. He also believes success is not to become the person above on the ladder, but rather his individuality worth rising. 
+Whether a cook or a scientist, it is not the details but the individuality that connects us all. The ability to reason about the world and our agency to mold it.
 
-Marco Pierre White struck me as a version of this character. He relentlessly pushed for 20 years to the top of cuisine to realize he was being judged by people with less skill and knowledge than him. He renounced the Michelin stars -- and all the concommitant benefits -- in favor of finding a new dream. This is the uncompromised character that [Emerson](https://archive.vcu.edu/english/engweb/transcendentalism/authors/emerson/essays/selfreliance.html) described. 
-
-Whether a cook or a scientist, it is not the details but the individuality that connects us all. **The ability to reason about the world and our agency to mold it.** Inspiration from others abounds but it also quickly fades. Sort of a fire starter that you can summon on command but it is up to you to keep it alight.
+Inspiration from others abounds but it also quickly fades. Sort of a fire starter that you can summon on command but it is up to you to keep it alight.
 
 ------ 
 
 &nbsp;  
 
-![Marco](/assets/marco.png)
+One of my favorites, Marco Pierre White, is a british chef with an incredibly inspiring story and simple, but profound ideas that resonate.
 
-MPW (1989)
-
-Here are a few extracts from an [Interview at Oxford Union (2016)](https://www.youtube.com/watch?v=U-xCIstDBaI) that resonate.
+The following are extracts his [Interview at Oxford Union (2016)](https://www.youtube.com/watch?v=U-xCIstDBaI).
 
 **On beginnings**. I came from a very working class world. 
 But a working class world that had self-esteem and pride, they knew their position. 
@@ -41,3 +37,6 @@ If someone asks me, what makes a great chef? I'd say three things:
 1. They accept and respect that mother nature is the true artist and they are the cook.
 2. Everything they do becomes an extension of them as a person.
 3. They give insight into the world they were born into. The world that inspire them and they serve it on their plates.
+
+![Marco](/assets/marco.png)
+MPW (1989)
