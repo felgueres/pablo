@@ -15,7 +15,8 @@ Inspiration from others abounds but it also quickly fades. Sort of a fire starte
 
 &nbsp;  
 
-One of my favorites, Marco Pierre White, is a british chef with an incredibly inspiring story and simple, but profound ideas that resonate.
+One of my favorite sources of inspiration is a british chef, Marco Pierre White. 
+He has an inspiring story that hinges on hard work and simple but profound ideas that resonate.
 
 The following are extracts his [Interview at Oxford Union (2016)](https://www.youtube.com/watch?v=U-xCIstDBaI).
 
