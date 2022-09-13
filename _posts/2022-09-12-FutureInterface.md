@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Future interface for software'
+title: 'Future interface for software?'
 date:   2022-09-13 07:00:00 -0700
 published: True 
 ---
@@ -8,7 +8,7 @@ published: True
 There are two trends shaping the future of software: engineering platforms and AI-assisted coding. 
 Upstream's mission is to build the interface that will configure these new emerging systems. In this post we explain why. 
 
-### Trend 1: Self-service organizations
+## Trend 1: Self-service organizations
 
 In the last 10 years, a key theme at tech companies has been to build replicable workflows with self-service capabilities, also called engineering platforms. 
 
@@ -16,11 +16,11 @@ The idea is to build internal tooling that covers 80% of uses cases, then abstra
 
 Platforms make sense because they lower coordination costs, reduce scopes to favor reliability and scale, and specializes labor to distinguish between building product features and infrastructure. 
 
-### Trend 2: Writing code with AI 
+## Trend 2: Writing code with AI 
 
 Large language models like [OpenAi's Codex](https://openai.com/blog/openai-codex/) are showing incredible results when applied to writing code. Today they are able to autocomplete functions with high accuracy, and it is reasonable think that they will be able to generate full components within the next 3-5 years. The challenge is to figure out which inputs, typically referred as prompts, yield your desired code outcome. Over time, it is easy to see ways in which prompt engineering will become a new paradigm to instruct computers with directed goals instead of specific instructions.
 
-### From business requirements to configurations
+## From business requirements to configurations
 
 These two trends give us a future of accelerated software development, underpinned by an architecture of replicable and reliable workflows that provide user experiences. 
 
