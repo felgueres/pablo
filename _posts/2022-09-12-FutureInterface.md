@@ -5,8 +5,7 @@ date:   2022-09-13 07:00:00 -0700
 published: True 
 ---
 
-There are two trends shaping the future of software: engineering platforms and AI-assisted coding. 
-Upstream's mission is to build the interface that will configure these new emerging systems. In this post we explain why. 
+There are two trends shaping the future of software: engineering platforms and AI-assisted coding.
 
 ## Trend 1: Self-service organizations
 
@@ -23,7 +22,6 @@ Large language models like [OpenAi's Codex](https://openai.com/blog/openai-codex
 ## From business requirements to configurations
 
 These two trends give us a future of accelerated software development, underpinned by an architecture of replicable and reliable workflows that provide user experiences. 
-
 Software is often thought of as translating business logic into code. But what if code is easy to generate and scale? We believe businesses will largely focus on reconfiguring their systems as new market opportunities present themselves.
 
 The most upstream element in this equation is configuration, which is the initial parameters that modify the behavior of applications. Think of configuration as the settings to control and manage a business: resources, experiments, product features, pricing, modeling.
