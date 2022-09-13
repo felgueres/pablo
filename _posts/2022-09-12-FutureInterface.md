@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Future interface for software'
-date:   2022-09-13 15:13:25 -0700
+date:   2022-09-13 07:00:00 -0700
 published: True 
 ---
 
