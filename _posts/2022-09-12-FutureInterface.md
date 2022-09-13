@@ -22,7 +22,7 @@ Large language models like [OpenAi's Codex](https://openai.com/blog/openai-codex
 ## From business requirements to configurations
 
 These two trends give us a future of accelerated software development, underpinned by an architecture of replicable and reliable workflows that provide user experiences. 
-Software is often thought of as translating business logic into code. But what if code is easy to generate and scale? We believe businesses will largely focus on reconfiguring their systems as new market opportunities present themselves.
+Software is often thought of as translating business logic into code. But what if code is easy to generate and scale? I believe businesses will largely focus on reconfiguring their systems as new market opportunities present themselves.
 
 The most upstream element in this equation is configuration, which is the initial parameters that modify the behavior of applications. Think of configuration as the settings to control and manage a business: resources, experiments, product features, pricing, modeling.
 
