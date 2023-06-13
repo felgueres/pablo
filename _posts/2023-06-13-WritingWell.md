@@ -5,9 +5,9 @@ date:   2023-06-13 08:18:25 -0700
 published: True 
 ---
 
-A personal ambition is to "find a voice", that is to figure out a way to understand the noise and knowledge that surrounds me. 
+A personal ambition is to "find a voice", that's to figure out a way to understand the noise and knowledge that surrounds me. 
 
-Here's some sparse resources and a running new vocabulary list that I hope one day to be indistinguishable from a dictionary.
+Here's some sparse resources and a running list of new words. 
 
 ---
 &nbsp;  
