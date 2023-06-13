@@ -5,6 +5,8 @@ date:   2022-09-13 07:00:00 -0700
 published: True 
 ---
 
+> Like Tesla's self-driving, software will be about defining where to go, not how to get there.
+
 There are two trends shaping the future of software: engineering platforms and AI-assisted coding.
 
 ## Trend 1: Self-service organizations
