@@ -7,7 +7,7 @@ published: True
 
 A personal ambition is to "find a voice", that is to figure out a way to understand the noise and knowledge that surrounds me. 
 
-This is a collection of sparse resources which I revisit in this journey. 
+Here's some sparse resources and a running new vocabulary list that I hope one day to be indistinguishable from a dictionary.
 
 ---
 &nbsp;  
