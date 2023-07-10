@@ -5,9 +5,9 @@ date:   2023-06-13 08:18:25 -0700
 published: True 
 ---
 
-A personal ambition is to "find a voice", that's to figure out a way to understand the noise and knowledge that surrounds me. 
+One good reason to write is as a way to understand the noise and knowledge that surrounds me. 
 
-Here's some sparse resources and a running list of new words. 
+I'm collecting ideas and new words to be better at it. 
 
 ---
 &nbsp;  
@@ -63,7 +63,7 @@ falter (verb): start to loose strength or momentum
 ---
 &nbsp;  
 
-**re:idioms**  
+**re:idioms and phrases**  
 Idioms are useful to convey high information in relatable, imaginative, and even precise ways. Don't abuse.
 - Primer for the layman on  
 - This may all sound corny and dates, but the pending conflict in Ukraine shows it to be an enduring truth
