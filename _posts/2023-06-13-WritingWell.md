@@ -5,7 +5,7 @@ date:   2023-06-13 08:18:25 -0700
 published: True 
 ---
 
-Write well is a way to understand the noise and knowledge that surrounds me. 
+Writing is a way to understand the noise and knowledge that surrounds me. 
 
 I'm collecting ideas and new words to be better at it. 
 
