@@ -5,17 +5,15 @@ date:   2021-01-01 15:13:25 -0700
 published: True 
 ---
 
-There are alternating periods where we favor the functional, other times we favor beauty.  
+wip
 
-In architechture, there's alternation between functional spaces, and expressing new forms -- renaissance vs. barrocan.
+Artists show clear aesthetic demarcation between periods, they want to be distanced from previous movement -- the romanists want to be distanced from barrocans, modernism from realism, and so on.
 
-The renaissance favored reason while the next period favored romanticism. 
+This alternation has a mark on multiple axes: historical periods, institutions, and broadly thought. In particular, we seem to favor function vs. beauty.
 
-Again during the Gilded Age, culture favored romantic ideas, the ethereal. 
-In the great depression, we went back to valuing industriousness and frugality, in economics and thought. 
+Take architecture, the renaissance favored reason and the functional, while the successor, the barrocan seeked to express new forms.
 
-The artists in these periods show clear demarcation. 
-The romanists want to be distanced from barrocans.
+In economics, during the Gilded Age, we favored romantic ideas, the ethereal and new expression. As the great depression followed, we went back to valuing industriousness and frugality, both in economics and thought. 
 
 If these cycles are bound by economics and new technology, and given technology is accelerating, will we asymptote onto a single representation of beauty and culture? 
 
