@@ -5,8 +5,6 @@ date:   2021-01-01 15:13:25 -0700
 published: True 
 ---
 
-wip
-
 When artists show a clear aesthetic demarcation between periods, they want to be distanced from the previous movement -- the romanists want to be distanced from barrocans, modernism from realism, and so on.
 
 This alternation has a mark on multiple axes: historical periods, institutions, and broadly thought. In particular, we seem to alternate between function vs. beauty.
