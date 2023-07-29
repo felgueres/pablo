@@ -5,13 +5,10 @@ date:   2021-01-01 15:13:25 -0700
 published: True 
 ---
 
-When artists show a clear aesthetic demarcation between periods, they want to be distanced from the previous movement -- the romanists want to be distanced from barrocans, modernism from realism, and so on.
+Artists are a good indicators of alternating periods. They demarcate the ideas in their work in order to be distanced from a previous movement -- the romanists wanted to be distanced from barrocans, modernism from realism, and so on.
 
-This alternation has a mark on multiple axes: historical periods, institutions, and broadly thought. In particular, we seem to alternate between function vs. beauty.
+A feature that seems to repeat over time is to alternate between function and beauty. Take architecture, the renaissance favored reason and the functional while the barrocan searched for new ideas of expression, without much concern for utility.
 
-Take architecture, the renaissance favored reason and the functional while its successor -- the barrocan -- seeked to express new forms.
+Something similar happens with the economy. During the gilded age -- a period of abundance -- society favored romantism and the ethereal. Later, as the great depression unfolded, society went back to valuing industriousness and frugality.
 
-In economics, during the Gilded Age, we favored romantic ideas, the ethereal and new expression. As the great depression followed, we went back to valuing industriousness and frugality, both in economics and thought. 
-
-If these cycles are bound by economics and new technology, and given technology is accelerating, will we asymptote onto a single representation of beauty and culture? 
-
+I'm thinking that if these cycles are bound by the state of the economy and accelerated by technology, perhaps culture will asymptote towards an average flavor of culture.
