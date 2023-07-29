@@ -5,7 +5,7 @@ date:   2021-01-01 15:13:25 -0700
 published: True 
 ---
 
-Artists are a good indicators of alternating periods. They demarcate a change of ideas in order to be distanced from a previous movement -- the romanists wanted to be distanced from barrocans, modernists from realists, and so on.
+Artists are good indicators of alternating periods. They demarcate a change of ideas in order to be distanced from a previous movement -- the romanists wanted to be distanced from barrocans, modernists from realists, and so on.
 
 A feature that seems to repeat over time is to alternate between function and beauty. Take architecture, the renaissance favored reason and the functional while the barrocan searched for new ideas of expression, without much concern for utility.
 
