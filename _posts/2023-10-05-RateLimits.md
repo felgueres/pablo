@@ -9,7 +9,7 @@ An observation about big gains in technology is that it is the result of pushing
 
 Say you have a technology that allows you to do something at a rate of 1/s. 
 
-Most people's think that the limit is there for some reason, so they will play around the limit, scraping with many others the new things it unlocks. This leads to marginal innovation and no outsized winners. 
+Most people think that the limit has a reason to exist, so they will play around it, scraping with many others marginal innovations and leaving no outsized winners. 
 
 Very few wonder what would happen if you push that rate by 10X or 100X. I think it's because it takes two realizations. The first is that the limit is rarely physics based, therefore it can be improved with lots of engineering, and, that the 2nd order effects are extremely hard to predict, so it's not obvious what it unlocks.
 
