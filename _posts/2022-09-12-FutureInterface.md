@@ -19,7 +19,7 @@ Writing code with AI
 
 Large language models like [Codex](https://openai.com/blog/openai-codex/) are showing incredible results when applied to writing code. Today they are able to autocomplete functions with high accuracy, and it is reasonable think that they will be able to generate full components within the next 3-5 years. The challenge is to figure out which inputs, typically referred as prompts, yield your desired code outcome. Over time, it is easy to see ways in which prompt engineering will become a new paradigm to instruct computers with directed goals instead of specific instructions.
 
-## From business requirements to configurations
+From business requirements to configurations
 
 These two trends give us a future of accelerated software development, underpinned by an architecture of replicable and reliable workflows that provide user experiences. 
 Software is often thought of as translating business logic into code. But what if code is easy to generate and scale? I believe businesses will largely focus on reconfiguring their systems as new market opportunities present themselves.
