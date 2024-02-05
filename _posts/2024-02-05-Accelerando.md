@@ -5,7 +5,7 @@ date:   2024-02-05 05:00:00 -0700
 published: True 
 ---
 
-[Accelerando](https://en.wikipedia.org/wiki/Accelerando) is first scifi where the characters don't talk in english giberish. I'm loving the there is enough detail to follow path from our current tech tree knowledge to an extrapolated one, even as it deals with an exponential. 
+[Accelerando](https://en.wikipedia.org/wiki/Accelerando) is first scifi where the characters don't talk in english giberish. I loved that the there is enough detail to trace a path from our current tech tree to an extrapolated one, even as it deals with an exponential. 
 
 Here's two themes I noticed and found worth pondering:
 
