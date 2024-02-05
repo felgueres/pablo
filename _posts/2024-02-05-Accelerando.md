@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Accelerando'
-date:   2021-01-01 15:13:25 -0700
+date:   2024-02-05 05:00:00 -0700
 published: True 
 ---
 
