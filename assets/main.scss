@@ -4,13 +4,20 @@
 @import "minima";
 
 .wrapper {
-    max-width: 500px;
+    max-width: 600px;
 }
 
-.post-link { display: inline; font-size: 1rem;}
 .post-list-heading { font-size: 1rem; margin-bottom: 0px;}
 .site-title { font-size: 22px; } 
 .post-title { font-size: 24px; letter-spacing: -1px; line-height: 1; color: #171a20;}
+
+ul {
+    font-size: 14px;
+}
+
+ul > li {
+    padding-top: 5px;
+}
 
 .post-link::before{
     content: "• ";

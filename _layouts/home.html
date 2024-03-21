@@ -4,17 +4,29 @@ layout: default
 
 <div class="home">
 
-  <p> Pablo Felgueres </p>
+  <h2> Pablo Felgueres </h2>
+  <br/>
+  <h3> Quick things about me </h3>
+  <ul> 
+      <li> Landed in San Francisco in 2014, which I consider my home </li>
+      <li> Interests include US history, energy, computer & technology history, classical cooking, biographies and in a journey to understand how computers work
+      </li>
+      <li> Software is my creative medium and sporadically feel the need to write </li>
+      <li> Working on AI + search </li>
+  </ul>
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-  <ul class="post-list">
+  <br/>
+
+  <h3> Ideas </h3>
+  <ul>
     {%- for post in site.posts -%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%m/%y" -%}
       <span class="post-meta">
-        <a class="post-link" href="{{ post.url | relative_url }}">{{
+        <a href="{{ post.url | relative_url }}">{{
             post.title | escape }}</a> ({{ post.date | date: date_format }})
       </span>
       {%- if site.show_excerpts -%}
