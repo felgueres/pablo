@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alternates'
+title: 'Periods of alternating form and function'
 date:   2021-01-01 15:13:25 -0700
 published: True 
 ---
