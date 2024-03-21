@@ -16,7 +16,7 @@ Inspiration from others abounds but it also quickly fades. Sort of a fire starte
 &nbsp;  
 
 One of my favorite sources of inspiration is a chef, Marco Pierre White. 
-He has an inspiring story that hinges on a hardcore work ethic and simple ideas that resonate.
+His story hinges on a hardcore work ethic and simple ideas that resonate.
 
 The following are extracts from an [Interview at Oxford Union (2016)](https://www.youtube.com/watch?v=U-xCIstDBaI).
 
