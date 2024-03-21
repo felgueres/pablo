@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Accelerando'
+title: 'Reputation is a scarce resource'
 date:   2024-02-05 05:00:00 -0700
 published: True 
 ---

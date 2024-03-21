@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Inspiration abounds'
+title: 'Great stories drive progress'
 date:   2022-07-22 15:13:25 -0700
 published: True 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Configuration as interface'
+title: 'Configuration is the future of software'
 date:   2022-09-13 07:00:00 -0700
 published: True 
 ---

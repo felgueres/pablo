@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rate Limits'
+title: 'Pushing a Rate Limit Builds Great Companies'
 date:   2023-10-04 15:13:25 -0700
 published: True 
 ---
