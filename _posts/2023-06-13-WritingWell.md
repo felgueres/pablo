@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Notes to write well'
+title: 'Notes on writing well'
 date:   2023-06-13 08:18:25 -0700
 published: True 
 ---
