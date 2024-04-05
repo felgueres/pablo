@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pushing a rate limit to build a great company'
+title: 'Pushing a rate limit to capture uncontested markets'
 date:   2023-10-04 15:13:25 -0700
 published: True 
 ---
@@ -13,6 +13,6 @@ Very few wonder what would happen if you push that rate by 10X or 100X. I think 
 
 The biggest recent innovations have this signature. The people that worked on them don't have good predictions about the 2nd order effects, so they figured out the scaling and worried about the business opportunity later. 
 
-Tesla pushed Wh/area to unlock the best performing cars. SpaceX pushed tonnage to orbit to unlock satellite communication. OpenAI pushed neural net parameter count to unlock chatgpt. Neuralink is pushing the bits/s between brain and computers to unlock __insert new market__. 
+Tesla pushed Wh/area to unlock the best performing cars. SpaceX pushed tonnage to orbit to unlock satellite communication. OpenAI pushed neural net parameter count to unlock chatgpt. Neuralink is pushing bits/s between brain and computers to unlock ... 
 
-These examples focused on engineering the rate limit first, then made huge gains on the opportunity that arose uncontested. 
+These teams focus on dramatically increasing rate limits and then capture the huge opportunity that arises uncontested. 
