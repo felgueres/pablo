@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LLM and widgets (2023)
+title: LLMs on widgets 
 date: 2023-12-15 06:00:00 -0700
 published: True 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LLM playground (2023)
+title: LLM playground
 date: 2023-08-20 06:00:00 -0700
 published: True 
 ---
