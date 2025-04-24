@@ -3,26 +3,52 @@ layout: default
 ---
 
 <div class="home">
+  <section class="about">
+
+    <p>Pablo Felgueres</p>
+
+    <img src="/assets/pfp.jpg" alt="pfp" width="100" style="margin-bottom: 10px;">
+
+    <p>Software engineer living in San Francisco. I've worked on ML systems at Uber, interfaces for language models at Perplexity, and performance simulations for some of the largest solar plants in the US.</p>
+    
+    <p>In 2022 I left my job to learn how to build products fullstack - design, engineering, marketing, and sales. Highlights have been an LLM playground <a href="https://www.producthunt.com/products/upstream-2" target="_blank" rel="noopener noreferrer">(top 10 on Product Hunt)</a>, a growing app for SF residents to simplify parking <a href="https://www.youtube.com/watch?v=dmWlEdJUCL8" target="_blank" rel="noopener noreferrer">(featured on ABC news)</a>, and building an <a href="https://industrialdynamism.com" target="_blank" rel="noopener noreferrer">engineering community</a> around the future of American manufacturing.</p>
+    
+    <p>I enjoy reading, lately bios of adventurers and US history. I'm a regular open water swimmer in the bay.</p>
+    
+    <p>Email: pablofelgueres@gmail.com<br>
+
+    <a href="https://github.com/felgueres">@felgueres on Github</a><br>
+    <a href="https://twitter.com/pfelgueres">@pfelgueres on X</a></p>
+
+    <br>
+
+    <blockquote>"Most people don't think simple enough." - Jim Keller</blockquote>
+    
+  </section>
+
+  <br>
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-
-  <ul>
     {%- for post in site.posts -%}
-    <li>
-      {%- assign date_format = site.minima.date_format | default: "%m/%y" -%}
-      <span class="post-meta">
-        <a href="{{ post.url | relative_url }}">{{
-            post.title | escape }}</a> ({{ post.date | date: date_format }})
-      </span>
-      {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
-      {%- endif -%}
-    </li>
-    {%- endfor -%}
-  </ul>
-  {%- endif -%}
-  <br/>
+      <article class="post">
+        <header class="post-header">
+          <h3 class="post-title">{{ post.title | escape }}</h3>
+          <p class="post-meta">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            {{ post.date | date: date_format }}
+            {%- if post.author -%}
+              • {{ post.author }}
+            {%- endif -%}
+          </p>
+        </header>
 
+        <div class="post-content">
+          {{ post.content }}
+        </div>
+        
+      </article>
+    {%- endfor -%}
+  {%- endif -%}
 </div>

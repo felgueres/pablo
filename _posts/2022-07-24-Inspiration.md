@@ -39,5 +39,5 @@ If someone asks me, what makes a great chef? I'd say three things:
 2. Everything they do becomes an extension of them as a person.
 3. They give insight into the world they were born into. The world that inspire them and they serve it on their plates.
 
-![Marco](/blog/assets/marco.png)
+![Marco](/assets/marco.png)
 MPW (1989)
